@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    background-color: whitesmoke;
+    color: #222;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 40px 20px;
+  }
+  
+  .header-content h1 {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .subheading {
+    font-size: 18px;
+    font-style: italic;
+    color: #ccc;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 50px 20px;
+    flex-wrap: wrap;
+  }
+  
+
+  .clone-box-facebook {
+    background-color: #fff;
+    width: 270px;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .clone-box-facebook:hover {
+    box-shadow: 0 16px 30px rgba(0, 0, 0, 0.15);
+  }
+  
+  .clone-content-facebook {
+    padding: 10px;
+  }
+  
+
+  .clone-box-netflix {
+    background-color: #fff;
+    width: 270px;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    
+    text-align: center;
+  }
+  
+  .clone-box-netflix:hover {
+    box-shadow: 0 16px 30px rgba(0, 0, 0, 0.15);
+  }
+  
+  .clone-content-netflix {
+    padding: 10px;
+  }
+  
+
+  .clone-logo {
+    width: 80px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 6px;
+  }
+  
+  .clone-box-facebook h2,
+  .clone-box-netflix h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #111;
+  }
+  
+  .clone-box-facebook p,
+  .clone-box-netflix p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+
+  .btn {
+    background-color: #42b72a;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  .btn:hover {
+    background-color: #36a420;
+  }
+  
+  .learn-more {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .learn-more-btn {
+    background-color: transparent;
+    border: 2px solid #1877f2;
+    color: #1877f2;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+  }
+  
+  .learn-more-btn:hover {
+    background-color: #1877f2;
+    color: white;
+  }
+  
+  
+  footer {
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 15px;
+    color: #777;
+    background-color: #f1f1f1;
+  }
+  
+  
+ 
+  
