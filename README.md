@@ -7,4 +7,4 @@ It features design-inspired clones of login pages from popular platforms like Fa
 It does not collect, store, or transmit any real user data.
 It is not affiliated with or endorsed by Facebook, Netflix, or any related entities.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
-<a href="">Click here to open the page.</a>
+<a href="https://khadeeja-jumana.github.io/Clone-Verse/">Click here to open the page.</a>
