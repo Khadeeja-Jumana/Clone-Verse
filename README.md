@@ -1,7 +1,6 @@
 # Clone-Verse
 🔒 Disclaimer
-This project, CloneVerse, is created solely for educational and study purposes.
-It features design-inspired clones of login pages from popular platforms like Facebook and Netflix to demonstrate front-end development techniques.
+"This project is a collection of UI clones of popular websites created solely for educational purposes. It is not intended for commercial use, nor does it claim any affiliation with or endorsement by the original sites."
 
 ⚠️ This is NOT a phishing website.
 It does not collect, store, or transmit any real user data.
